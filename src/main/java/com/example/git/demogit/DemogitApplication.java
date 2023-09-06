@@ -10,7 +10,6 @@ public class DemogitApplication {
 
 		System.out.println("mychanges");
 	}
-
 	public void addone(){
 
 		System.out.println("newchange");
