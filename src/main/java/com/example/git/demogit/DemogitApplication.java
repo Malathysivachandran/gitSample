@@ -11,6 +11,11 @@ public class DemogitApplication {
 		System.out.println("mychanges");
 	}
 
+	public void addone(){
+
+		System.out.println("newchange");
+	}
+
 	public static void main(String[] args) {
 		SpringApplication.run(DemogitApplication.class, args);
 	}
